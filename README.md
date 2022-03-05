@@ -1,1 +1,2 @@
-# cs-42-i-did
+# C42RV_SpeedRacer_StudentActivity
+Student Activity
